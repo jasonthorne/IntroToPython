@@ -1,1 +1,1 @@
-### Udemy tutorials for MySQL with PHP
+### PacktPub_Python
