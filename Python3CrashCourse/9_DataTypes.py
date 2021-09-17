@@ -27,4 +27,4 @@ print(myTuple);
 # SETS - unique lists (only one of each element allowed):
 
 mySet = {1, 2, 1, 1, 3, 2};
-print(mySet);
+print(mySet); # only 1 '1 ' & 1 '2'
